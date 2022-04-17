@@ -1,0 +1,12 @@
+|plugged|file
+auto|autoload|file
+plu|plug|around
+tok|tokyonight|around
+ali|alias|around
+pl|plug|around
+se|set|around
+ni|nightfly|around
+to|tokyonight|around
+|init.vim|file
+|nvim|file
+alia|alias|around

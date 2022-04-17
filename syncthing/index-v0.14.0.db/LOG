@@ -1,0 +1,18 @@
+=============== Mar 30, 2022 (MDT) ===============
+16:59:11.208079 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:59:11.212500 db@open opening
+16:59:11.216743 version@stat F·[] S·0B[] Sc·[]
+16:59:11.218823 db@janitor F·2 G·0
+16:59:11.218848 db@open done T·6.335863ms
+17:00:35.132241 db@close closing
+17:00:35.132334 db@close done T·93.172µs
+=============== Mar 30, 2022 (MDT) ===============
+17:00:38.527898 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:00:38.527981 version@stat F·[] S·0B[] Sc·[]
+17:00:38.527985 db@open opening
+17:00:38.528001 journal@recovery F·1
+17:00:38.531148 journal@recovery recovering @1
+17:00:38.533927 memdb@flush created L0@2 N·8 S·293B "\x04de..can,v8":"\npr..ion,v3"
+17:00:38.536475 version@stat F·[1] S·293B[293B] Sc·[0.25]
+17:00:38.541321 db@janitor F·3 G·0
+17:00:38.541350 db@open done T·13.360968ms
